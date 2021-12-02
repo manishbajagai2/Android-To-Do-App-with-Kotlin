@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">listing</string>
+    <string name="clear_done">Clear Done</string>
+    <string name="clear_all">Clear All</string>
+</resources>
