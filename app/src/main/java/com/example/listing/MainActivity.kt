@@ -36,11 +36,11 @@ class MainActivity : AppCompatActivity() {
                     val todo = Todo(todoTitle)
                     todoAdapter.addTodo(todo)
                     textEditText.text.clear()
-                }else{
-                    Toast.makeText(this, "Invalid input. Please try again", Toast.LENGTH_LONG).show()
-                }
                     dialog.dismiss()
                     Toast.makeText(this, "Task added and saved", Toast.LENGTH_LONG).show()
+                }else{
+                        Toast.makeText(this, "Invalid input. Please try again", Toast.LENGTH_LONG).show()
+                    }
                 }
 
                 alertDialog.setNeutralButton("Cancel"){ _, _ ->
