@@ -3,10 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2712962962962963" />
+        <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/drawable/back_background.xml" value="0.2712962962962963" />
+        <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/drawable/chk_block.xml" value="0.17395833333333333" />
         <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/drawable/ic_baseline_checklist_rtl_24.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/drawable/ic_baseline_clear_all_24.xml" value="0.2712962962962963" />
+        <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.2712962962962963" />
+        <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/drawable/ic_baseline_filter_list_24.xml" value="0.2712962962962963" />
+        <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2712962962962963" />
+        <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/drawable/ic_todo.xml" value="0.2712962962962963" />
         <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/drawable/icon.xml" value="0.20925925925925926" />
         <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/drawable/kotlin.xml" value="0.11203703703703703" />
+        <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/drawable/text_block.xml" value="0.25" />
+        <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/layout/activity_main.xml" value="0.26403985507246375" />
         <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/layout/item_todo.xml" value="0.25" />
+        <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/menu/main_menu.xml" value="0.29322916666666665" />
+        <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/mipmap-anydpi-v26/back.xml" value="0.17239583333333333" />
+        <entry key="..\:/Users/lenovo/Desktop/listing/app/src/main/res/mipmap-anydpi-v26/back_round.xml" value="0.17239583333333333" />
       </map>
     </option>
   </component>

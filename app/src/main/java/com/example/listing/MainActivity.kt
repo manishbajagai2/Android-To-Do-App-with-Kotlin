@@ -1,5 +1,6 @@
 package com.example.listing
 
+import android.graphics.drawable.ColorDrawable
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
@@ -50,7 +51,9 @@ class MainActivity : AppCompatActivity() {
                 alertDialog.setCancelable(false)
                 alertDialog.show()
             }
+        supportActionBar?.setBackgroundDrawable(ColorDrawable(resources.getColor(R.color.grayish)));
     }
+
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.main_menu, menu)
